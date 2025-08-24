@@ -26,4 +26,4 @@ This repo may include (but not limited to):
   ```bash
   git clone https://github.com/hselin-iar/first-git-project
 
-thank youu
+thank youus
